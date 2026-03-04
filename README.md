@@ -1,16 +1,44 @@
-## Hi there 👋
+## Hi there, I'm Josh 👋
 
-<!--
-**JCrittenden365/JCrittenden365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an aspiring IT professional with a strong interest in system administration, automation, and hands-on technical troubleshooting.
 
-Here are some ideas to get you started:
+Growing up, I was always drawn to computers — whether upgrading hardware, troubleshooting connectivity issues, or optimizing system performance. That curiosity has grown into structured hands-on experience through building and documenting personal technical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 What I’m Working On
+
+Linux homelab infrastructure
+
+System automation using cron and Bash
+
+Python utility development
+
+Virtualized environments for testing and learning
+
+Expanding troubleshooting and system administration skills
+
+🖥 Technical Interests
+
+Linux administration
+
+System troubleshooting
+
+Automation
+
+Infrastructure fundamentals
+
+Desktop utilities and scripting
+
+📂 Featured Projects
+Linux Homelab Infrastructure
+
+Documented lab environment focused on system administration, automation, and practical Linux operations.
+
+Python File Search Tool
+
+Tkinter-based desktop utility for searching, opening, and safely deleting files by extension.
+
+📫 Connect With Me
+
+GitHub: https://github.com/JCrittenden365
+
+LinkedIn: https://www.linkedin.com/in/joshua-crittenden-b3380b3b3
