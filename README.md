@@ -39,6 +39,4 @@ Tkinter-based desktop utility for searching, opening, and safely deleting files 
 
 📫 Connect With Me
 
-GitHub: https://github.com/JCrittenden365
-
 LinkedIn: https://www.linkedin.com/in/joshua-crittenden-b3380b3b3
