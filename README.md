@@ -8,6 +8,8 @@ Growing up, I was always drawn to computers — whether upgrading hardware, trou
 
 Linux homelab infrastructure
 
+Windows Server 2022 and Active Directory
+
 System automation using cron and Bash
 
 Python utility development
