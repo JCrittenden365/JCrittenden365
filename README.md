@@ -16,7 +16,7 @@ Python utility development
 
 Virtualized environments for testing and learning
 
-Expanding troubleshooting and system administration skills
+Expanding troubleshooting, IT Help Desk, IT Support, and system administration skills
 
 🖥 Technical Interests
 
@@ -34,6 +34,10 @@ Desktop utilities and scripting
 Linux Homelab Infrastructure
 
 Documented lab environment focused on system administration, automation, and practical Linux operations.
+
+Windows Server 2022 / Active Directory
+
+Documented lab environment focused on centralizing network administration, security, and identity management within a Windows domain network.
 
 Python File Search Tool
 
