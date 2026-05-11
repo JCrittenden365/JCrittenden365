@@ -1,47 +1,23 @@
 ## Hi there, I'm Josh 👋
 
-I’m an aspiring IT professional with a strong interest in system administration, automation, and hands-on technical troubleshooting.
+I'm an aspiring IT Support Specialist with a strong interest in help desk and deskside support, focused on troubleshooting, system administration, and delivering reliable technical solutions to end users.
+I’ve always been drawn to working with computers — from diagnosing hardware issues to resolving network connectivity problems and optimizing system performance. That curiosity has grown into hands-on experience through building and documenting personal lab environments and real-world troubleshooting scenarios.
 
-Growing up, I was always drawn to computers — whether upgrading hardware, troubleshooting connectivity issues, or optimizing system performance. That curiosity has grown into structured hands-on experience through building and documenting personal technical projects.
+🛠️ What I’m Working On
 
-🔧 What I’m Working On
+Supporting and troubleshooting Windows and Linux systems
 
-Linux homelab infrastructure
+Windows Server 2022 and Active Directory fundamentals
 
-Windows Server 2022 and Active Directory
+User account management, permissions, and group policies
 
-System automation using cron and Bash
+Network troubleshooting (IP addressing, DNS, connectivity)
 
-Python utility development
+Virtualized lab environments for testing and learning
 
-Virtualized environments for testing and learning
+🎯 Current Focus
 
-Expanding troubleshooting, IT Help Desk, IT Support, and system administration skills
-
-🖥 Technical Interests
-
-Linux administration
-
-System troubleshooting
-
-Automation
-
-Infrastructure fundamentals
-
-Desktop utilities and scripting
-
-📂 Featured Projects
-Linux Homelab Infrastructure
-
-Documented lab environment focused on system administration, automation, and practical Linux operations.
-
-Windows Server 2022 / Active Directory
-
-Documented lab environment focused on centralizing network administration, security, and identity management within a Windows domain network.
-
-Python File Search Tool
-
-Tkinter-based desktop utility for searching, opening, and safely deleting files by extension.
+Developing practical IT support skills, including ticket-based troubleshooting, user communication, and resolving common hardware/software issues in a help desk environment.
 
 📫 Connect With Me
 
